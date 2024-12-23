@@ -1,13 +1,13 @@
 # Android RoadMap Study
 
-## Members
 
-| ![img1](https://avatars.githubusercontent.com/u/Pearl-K) | ![img2](https://avatars.githubusercontent.com/u/SuHyeon00) | 
+## Members
+| <img src="https://avatars.githubusercontent.com/u/80253713" width = 150> | <img src="https://avatars.githubusercontent.com/u/90602694" width = 150> | 
 |--------|--------|
 | [강진주](https://github.com/Pearl-K) | [오수현](https://github.com/SuHyeon00) |
 
-## Contents
 
+## Contents
 1. **Android 시스템**
     - Linux 위에 올려진 오픈소스로 시작한 안드로이드
     - 커널 수준의 지식이 필요한 이유 (가볍게 다루기)
